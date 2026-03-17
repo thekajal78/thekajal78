@@ -1,6 +1,6 @@
 # Hi, I'm KAJAL👋
 
-AI/ML enthusiast passionate about building intelligent systems using Machine Learning and Deep Learning. I enjoy solving real-world problems through data, algorithms, and AI-driven applications.
+Building intelligent systems using Machine Learning & Deep Learning | Turning data into meaningful solutions
 
 ## Domains
 Artificial Intelligence • Machine Learning • Deep Learning • Data Science 
