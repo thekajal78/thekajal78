@@ -3,7 +3,7 @@
 AI/ML enthusiast passionate about building intelligent systems using Machine Learning and Deep Learning. I enjoy solving real-world problems through data, algorithms, and AI-driven applications.
 
 ## Domains
-Artificial Intelligence • Machine Learning • Deep Learning • Data Science • AI in Sports Analytics
+Artificial Intelligence • Machine Learning • Deep Learning • Data Science 
 
 ## Skills
 Programming Languages: Python, Java, C/C++
