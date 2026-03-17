@@ -69,20 +69,11 @@
   <img src="https://komarev.com/ghpvc/?username=thekajal78&label=Profile%20views&color=blue&style=flat" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-* 🎨 **AI-Canvas** – Draw using hand gestures (OpenCV + MediaPipe)
-* 🧠 Coming Soon: Face Recognition System
-* 📊 Coming Soon: ML Prediction Model
-
----
 
 ## 📫 Connect with Me
 
 * 💼 GitHub: https://github.com/thekajal78
-* 🔗 LinkedIn: (Add your link here)
+* 🔗 LinkedIn: https://www.linkedin.com/in/kajal-89b673312/
 
 ---
 
