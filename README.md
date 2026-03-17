@@ -10,13 +10,23 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv">
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow">
-  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch">
-  <img src="https://img.shields.io/badge/NumPy-yellow?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
+
+<b>Languages:</b><br> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-grey?style=for-the-badge&logo=c">
+
+<br><br>
+
+<b>AI/ML:</b><br> <img src="https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge">
+
+<br><br>
+
+<b>Frameworks:</b><br> <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"> <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"> <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv">
+
+<br><br>
+
+<b>Tools:</b><br> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img src="https://img.shields.io/badge/Google%20Cloud-white?style=for-the-badge&logo=googlecloud">
+
 </p>
+
 
 ---
 
