@@ -69,10 +69,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thekajal78&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekajal78&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekajal78&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
