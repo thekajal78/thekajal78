@@ -56,7 +56,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekajal78&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=thekajal78&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thekajal78&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thekajal78&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
