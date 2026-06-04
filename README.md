@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">🚀 AI/ML | Computer Vision | Deep Learning</h3>
 
